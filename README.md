@@ -6,11 +6,11 @@ just learn and think in vuex~
 
 ## Examples
 
-- [Counter](https://github.com/vuejs/vuex/tree/dev/examples/counter)
-- [Counter with Hot Reload](https://github.com/vuejs/vuex/tree/dev/examples/counter-hot)
-- [TodoMVC](https://github.com/vuejs/vuex/tree/dev/examples/todomvc)
-- [Flux Chat](https://github.com/vuejs/vuex/tree/dev/examples/chat)
-- [Shopping Cart](https://github.com/vuejs/vuex/tree/dev/examples/shopping-cart)
+- [Counter](https://github.com/wlx200510/vuex-example/tree/master/counter)
+- [Counter with Hot Reload](https://github.com/wlx200510/vuex-example/tree/master/counter-hot)
+- [TodoMVC](https://github.com/wlx200510/vuex-example/tree/master/todomvc)
+- [Flux Chat](https://github.com/wlx200510/vuex-example/tree/master/chat)
+- [Shopping Cart](https://github.com/wlx200510/vuex-example/tree/master/shopping-cart)
 
 Running the examples:
 
